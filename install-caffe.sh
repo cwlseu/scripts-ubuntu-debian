@@ -44,3 +44,6 @@ cd caffe
 # MATLAB_DIR := /opt/MATLAB/R2015a
 
 # INSTALL OPENCV 3 with -DWITH_GDAL=OFF!!! Error OpenCV 3 with GDAL.
+
+# If have occur "hdf5.h" not found:
+# http://stackoverflow.com/questions/37007495/caffe-didnt-see-hdf5-h-when-compiling
